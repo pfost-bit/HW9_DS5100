@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='BookLover',
+    name='booklover',
     version='0.2',
     description='A demonstration package for homework M09',
     url='https://github.com/pfost-bit/m09-demo',

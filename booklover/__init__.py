@@ -1,2 +1,2 @@
-from booklover import BookLover
-from booklover_test import BookLoverTestSuite
+import booklover
+import booklover_test

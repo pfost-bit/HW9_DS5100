@@ -8,5 +8,5 @@ setup(
     author='Pat Foster',
     author_email='ezq9qu@virginia.edu',
     license='MIT',
-    packages=['booklover']
+    packages=find_packages()
 )
